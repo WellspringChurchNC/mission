@@ -6,10 +6,10 @@
 **We exist to make disciples that love and live like Jesus**
 
 Our Core Values (the 4 G's):  
-- Gather | We gather together for worship.
-- Grow | We grow in faith together.
-- Give | We get to give of our time, talents, and treasure.
-- Go | We go and make disciples.
+- Gather - We gather together for worship.
+- Grow - We grow in faith together.
+- Give - We get to give of our time, talents, and treasure.
+- Go - We go and make disciples.
 
 Everything we do to help people grow should align with and connect to the 4 G's.  Our scope is comprehensive ... we emphasize relationships and conversations over executing processes and measuring success.  Our intention is to create a culture and environment that facilitates growth, recognizing that God ultimately causes the growth.  Since LIFEgroup participation and serving in ministry teams are two primary ways that we reinforce relationships it is our desire that all leaders have a foundations understanding of our discipleship approach including being an intentional leader, creating relational environments, and comfortable with our reproducible discipleship process.
 

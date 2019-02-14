@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-URL for the site:  https://wellspringchurchnc.github.io/prod-team/
+URL for the site:  https://wellspringchurchnc.github.io/mission/
 
-You can use the [editor on GitHub](https://github.com/WellspringChurchNC/prod-team/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/WellspringChurchNC/mission/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,7 +11,7 @@ I copied all of the content in the wiki md "file" and pasted it into a new pages
 
 [PCO schedule](https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public)
 
-[Wellspring Worship OneDrive File Listing](https://cdn.rawgit.com/WellspringChurchNC/prod-team/102667e4/Wellspring%20Worship.html)
+[Wellspring Worship OneDrive File Listing](https://cdn.rawgit.com/WellspringChurchNC/mission/102667e4/Wellspring%20Worship.html)
 
 ### Markdown
 

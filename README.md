@@ -19,7 +19,7 @@ Everything we do to help people grow should align with and connect to the 4 G's.
 
 
 ### The WHAT ... core concepts that define what we'll do to help people take their next step
-TBD ... things like ... our next steps (what should we do to put this into pracice)
+TBD ... things like ... our next steps (what should we do to put this into practice)
 
 
 

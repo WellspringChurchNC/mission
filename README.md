@@ -1,46 +1,33 @@
-## Welcome to GitHub Pages
+## How do we help people take their next step?
 
-URL for the site:  https://wellspringchurchnc.github.io/mission/
+### The WIN:  Help people take the next step ... whatever that next step is ...
 
-You can use the [editor on GitHub](https://github.com/WellspringChurchNC/mission/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The WHY ... some background & context ...
+**We exist to make disciples that love and live like Jesus**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our Core Values (the 4 G's):  
+- Gather | We gather together for worship.
+- Grow | We grow in faith together.
+- Give | We get to give of our time, talents, and treasure.
+- Go | We go and make disciples.
 
-I copied all of the content in the wiki md "file" and pasted it into a new pages md file:<br>
-[Personal Equipment](Personal-Equipment)
+Everything we do to help people grow should align with and connect to the 4 G's.  Our scope is comprehensive ... we emphasize relationships and conversations over executing processes and measuring success.  Our intention is to create a culture and environment that facilitates growth, recognizing that God ultimately causes the growth.  Since LIFEgroup participation and serving in ministry teams are two primary ways that we reinforce relationships it is our desire that all leaders have a foundations understanding of our discipleship approach including being an intentional leader, creating relational environments, and comfortable with our reproducible discipleship process.
 
-[PCO schedule](https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public)
+**stuff to fill in**
+- spiritual wheel
+- list of "menu" options from putnam's book
 
-[Wellspring Worship OneDrive File Listing](https://cdn.rawgit.com/WellspringChurchNC/mission/102667e4/Wellspring%20Worship.html)
 
-### Markdown
+### The WHAT ... core concepts that define what we'll do to help people take their next step
+TBD ... things like ... our next steps (what should we do to put this into pracice)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### The HOW ... the things we'll actually do to live this out daily
+TBD ... work on WHY & WHAT first, before doing much here.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+[editor on GitHub](https://github.com/WellspringChurchNC/mission/edit/master/README.md) 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WellspringChurchNC/prod-team/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site:  [https://wellspringchurchnc.github.io/mission/](https://wellspringchurchnc.github.io/mission/)
